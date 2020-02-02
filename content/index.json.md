@@ -1,6 +1,6 @@
 {
-    "title": "Snek Project Template",
-    "template": "index.html"
+"title": "Snek Project Template",
+  "layout": "index.html"
 }
 
 ## Hello World !
