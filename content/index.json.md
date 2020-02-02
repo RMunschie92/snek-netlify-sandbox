@@ -3,5 +3,5 @@
     "template": "index.html"
 }
 
-## Hello Emma the Fart Kween !
+## Hello World !
 Your basic snek project is ready to go !
