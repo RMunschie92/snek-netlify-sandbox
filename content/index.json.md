@@ -1,5 +1,5 @@
 {
-"title": "Snek Project Template",
+"title": "Snek NetlifyCMS Sandbox",
   "layout": "index.html"
 }
 ## Hello friend o' mine.
