@@ -2,6 +2,6 @@
 "title": "Snek Project Template",
   "layout": "index.html"
 }
+## Hello friend o' mine.
 
-## Hello World !
-Your basic snek project is ready to go !
+What's the deal with the steady erosion of the middle-class?
